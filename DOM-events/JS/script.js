@@ -10,4 +10,14 @@ function reveal(e) {
     ALERT.classList.toggle("hide");
 }
 
-CTA.onclick = reveal;
+// Using event handlers
+// Only one function can be attached to event handler
+// CTA.onclick = reveal;
+// CTA.onclick = console.log("button was clicked");
+
+
+// Using event listeners
+CTA.addEventListener("click", reveal, false);
+CTA.addEventListener("click", function() {
+    console.log("Button was clicked");
+}, false);
