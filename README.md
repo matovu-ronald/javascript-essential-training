@@ -38,6 +38,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2019 [Matovu Ronald](https://github.com/matovu-ronald).<br />
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
