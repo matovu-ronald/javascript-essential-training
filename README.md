@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to javascript-essential-training 👋</h1>
+<h1 align="center">Welcome to Javascript Essential Training 👋</h1>
 <p>
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://opensource.org/licenses/MIT">
@@ -10,12 +10,6 @@
 </p>
 
 > The wonderful beginner&#39;s guide to javascript
-
-## Install
-
-```sh
-npm install
-```
 
 ## Usage
 
